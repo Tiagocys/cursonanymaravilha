@@ -1,0 +1,1 @@
+window.location.href = "https://go.hotmart.com/M73935355A?ap=3ed6";
